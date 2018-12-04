@@ -1,0 +1,23 @@
+body {
+    background-color: royalblue;
+    background-image: url("../images/Blueprints.jpg");
+}
+
+.header {
+    font-size: 2em;
+    font-family: 'Permanent Marker', cursive;
+}
+
+#profile {
+    max-width: 160px;
+    max-height: 200px;
+}
+
+#contactinfo {
+    font-size: 1.5em;
+    font-family: 'Permanent Marker', cursive;
+}
+
+.input-field:active {
+    color: white;
+}
